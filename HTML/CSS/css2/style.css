@@ -1,0 +1,43 @@
+
+
+
+/* 
+    esse arquivo é uma folha de estilo, aqui podemos trabalhar nosso CSS
+    sem a necessidade de deixar os estilo "misturados" com os documentos 
+    HTML, deixando assim, mais organizados
+*/
+
+body {
+    background-color: rgb(40, 0, 53);
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    color: rgb(255, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+p{
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
+
+#citacao{
+    color: aqua;
+    text-align: right;
+    font-style: italic;
+}
+
+/* Selector de ID(Começa com # e afeta apenas a TAG que tenha o ID = "Nome-Seletor")*/
+#citacao {
+    color: white;
+    text-align: right;
+    font-style: italic;
+
+}

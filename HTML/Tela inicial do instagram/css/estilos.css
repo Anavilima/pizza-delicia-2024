@@ -1,0 +1,76 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .phone {
+    border: 2px solid #ccc;
+    border: none;
+    width: 500px;
+    height: 600px;
+    margin-right: 20px;
+  }
+  
+  .phone img {
+    width: 100%;
+    height: auto;
+    border-radius: 18px;
+  }
+  
+  .login-options {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .profile {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+  }
+  
+  .blue-background {
+    background-color: #e6f0ff;
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .profile a {
+    text-decoration: none;
+    color: #003569;
+    font-size: 14px;
+  }
+  
+  .footer {
+    text-align: center;
+  }
+  
+  .footer p {
+    font-size: 14px;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: #003569;
+  }
+  
+  .download {
+    margin-top: 20px;
+  }
+  
+  .app-buttons img {
+    width: 120px;
+    margin-top: 10px;
+  }
+
+  .insta-lg {
+    padding-left: 55px;
+  }
